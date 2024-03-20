@@ -1,0 +1,4 @@
+﻿  2.4.2.cpp
+C:\Users\Юрій\Desktop\2.4.2\2.4.2\Book.h(26,41): warning C4552: '-': result of expression not used
+C:\Users\Юрій\Desktop\2.4.2\2.4.2\Debt.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  2.4.2.vcxproj -> C:\Users\Юрій\Desktop\2.4.2\x64\Debug\2.4.2.exe
